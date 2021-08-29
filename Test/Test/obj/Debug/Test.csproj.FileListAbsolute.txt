@@ -1,0 +1,9 @@
+/Users/jasperdonut/Projects/Test/Test/obj/Debug/Test.csproj.AssemblyReference.cache
+/Users/jasperdonut/Projects/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/jasperdonut/Projects/Test/Test/bin/Debug/Test.exe
+/Users/jasperdonut/Projects/Test/Test/bin/Debug/Test.pdb
+/Users/jasperdonut/Projects/Test/Test/obj/Debug/Test.exe
+/Users/jasperdonut/Projects/Test/Test/obj/Debug/Test.pdb
+/Users/jasperdonut/Projects/Test/Test/bin/Debug/Onyx.dll
+/Users/jasperdonut/Projects/Test/Test/bin/Debug/Onyx.pdb
+/Users/jasperdonut/Projects/Test/Test/obj/Debug/Test.csproj.CopyComplete
